@@ -368,10 +368,21 @@ The analysis reveals that NYC Uber ride-sharing operates under a sophisticated p
 
 The project includes comprehensive visual documentation of the entire development process:
 
-* **Data Loading Process** (e.g., `n1.JPG`, `n1 output.JPG`)
-* **Data Cleaning Steps** (e.g., `n2.JPG`, `n2 output.JPG`)
-* **Dashboard Development Stages** (e.g., `n3.JPG`, `n3 output.JPG`, `dashboards.JPG`)
-* **Additional Analysis/Process Steps** (e.g., `n4.JPG`, `n4 output.JPG`)
+* **Data Loading Process**
+![n1](https://github.com/user-attachments/assets/30bd6582-9406-46ff-92b4-28806685a167)
+![n1 output](https://github.com/user-attachments/assets/d8b07088-1164-4893-ad5e-1fc40b6cbb47)
+
+* **Data Cleaning Steps**
+![n2](https://github.com/user-attachments/assets/b4372b4e-421f-44e3-93e9-962a822621c4)
+![n2 output](https://github.com/user-attachments/assets/c3be1eb8-26c8-4fcf-b9f3-3604a27aff3e)
+
+* **Dashboard Development Stages**
+![dashboards](https://github.com/user-attachments/assets/5f56d5fb-3bc2-46f3-b7fe-532d2fb99fee)
+![n3](https://github.com/user-attachments/assets/d5330eab-80db-49dd-a72e-5d7ecc580fef)
+![n3 output](https://github.com/user-attachments/assets/31f8b0fc-c2a6-4a89-9f2d-507a8188bdda)
+
+* **Additional Analysis/Process Steps**
+![n4](https://github.com/user-attachments/assets/4e04ba58-ee79-44a6-8779-c2295172d76e)
 
 Each screenshot captures critical stages of the analytical workflow, providing transparency into the methodological approach and enabling reproducibility for future projects or academic review.
 
