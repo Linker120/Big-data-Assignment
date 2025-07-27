@@ -422,12 +422,7 @@ Each screenshot captures critical stages of the analytical workflow, providing t
 ### 🔄 Project Setup Instructions
 
 **Environment Preparation**
-1.  Clone the repository:
-    ```bash
-    git clone [https://github.com/patiencemanzen/big-data-analytic-powerbi.git](https://github.com/patiencemanzen/big-data-analytic-powerbi.git)
-    cd big-data-analytic-powerbi
-    ```
-2.  Install Python dependencies:
+1.  Install Python dependencies:
     ```bash
     pip install -r requirements.txt # (Assuming you create a requirements.txt from the above Python dependencies)
     ```
@@ -518,7 +513,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   institution={African University of Central Africa},
   course={Introduction to Big Data Analytics},
   instructor={Eric Maniraguha},
-  url={[https://github.com/patiencemanzen/big-data-analytic-powerbi](https://github.com/patiencemanzen/big-data-analytic-powerbi)}
 }
 ```
 
