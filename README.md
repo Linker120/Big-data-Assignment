@@ -505,23 +505,6 @@ Each screenshot captures critical stages of the analytical workflow, providing t
 * Strategic business recommendation formulation
 * Professional technical documentation
 
-## 📄 License & Usage
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-**Citation:**
-```bibtex
-@project{uber_fares_analysis_2025,
-  title={Uber Fares Data Analysis: Comprehensive Business Intelligence Dashboard},
-  author={Student Submission - INSY 8413},
-  year={2025},
-  institution={African University of Central Africa},
-  course={Introduction to Big Data Analytics},
-  instructor={Eric Maniraguha},
-  url={[https://github.com/patiencemanzen/big-data-analytic-powerbi](https://github.com/patiencemanzen/big-data-analytic-powerbi)}
-}
-```
-
 Acknowledgments:
 
 Eric Maniraguha - Course instructor and project guidance
